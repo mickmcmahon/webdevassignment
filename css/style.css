@@ -1,0 +1,593 @@
+/*<----------------------------Header\Footer\Nav----------------------------------->*/
+
+body	{
+	height:100%;
+	width:100%;
+	background-color:#F5F5F5;
+}
+#header	{
+	margin-right:1000px;
+	margin-bottom:10px;
+}
+#quote	{
+	float:right;
+	margin-right:100px;
+	margin-top:-150px;
+	margin-bottom:20px;
+	height:100px;
+	width:500px;
+}
+#main_container{
+	margin:auto;
+	width:1300px;
+	height:100%;
+}
+
+#nav	{
+
+	background-color:#0a075b;
+	font-family:calibri;
+	height:80px;
+	width:1300px;
+}
+
+#nav ul{
+	padding:30px 30px;
+	text-align:center;
+	list-style-type:none;
+}
+#nav li{
+	display: inline;
+}
+	
+
+#nav a {
+	color:white;
+	text-decoration:none;
+	padding: 5px;
+	border: 1px;
+	width: 250px;
+	margin: 10px;
+}
+#nav a:hover{
+	background-color:#57bee0;
+}
+
+#footer{
+	position:absolute;
+	width:100%;
+	height:80px;
+	width:1300px;
+	margin-top:350px;
+	font-family:calibri;
+	background-color:#0a075b;
+}
+#footer p{
+	text-align:left;
+	margin-left:-520px;
+	padding:0px 0px;
+	margin:0px;
+	color:white;
+}
+#footer h4{
+	margin-top:-60px;
+	margin-right:220px;
+	text-align:right;
+	color:white;
+}
+#footer_bar {
+	margin-top:-20px;
+	margin-right:10px;
+	float:right;
+}
+#footer_bar li {
+	margin-top:-70px;
+}
+
+#footer_bar a{
+	margin-top:120px;
+	padding: -100px;
+	margin-left:20px;
+}
+
+/*<----------------------------Home Page----------------------------------->*/
+#home_main img	{
+	display:block;
+	margin:auto;
+}
+#para_div	{
+	width:
+	display:inline;
+}
+#home_container{
+	height:auto;
+	width:100%;
+	text-align:center;
+}
+#home_container h1{
+	font-family:calibri;
+}
+#home_main	{
+	background-color:white;
+	height:1500px;
+	width:100%;
+	margin-top:-10px;
+	margin-bottom:-330px;
+}
+#paragraph1	{
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:150px;
+	margin-right:50px;
+	float:right;
+	background-color:#57bee0;
+	height:300px;
+	width:300px;
+}
+#paragraph1 h1{
+	font-family:calibri;
+	color:#0a075b;
+
+}
+#paragraph1 p{
+	font-family:calibri;
+	color:white;
+
+}
+#paragraph2 h1{
+	font-family:calibri;
+	color:#0a075b;;
+
+}
+#paragraph2 p{
+	font-family:calibri;
+	color:white;
+
+}
+#paragraph3 h1{
+	font-family:calibri;
+	color:#0a075b;;
+
+}
+#paragraph3 p{
+	font-family:calibri;
+	color:white;
+
+}
+
+#paragraph2 {
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:150px;
+	float:right;
+	background-color:#57bee0;
+	height:300px;
+	width:300px;
+}
+#paragraph3 {
+	border: 1px solid black;
+	margin-top:20px;
+	margin-left:10px;
+	float:right;
+	background-color:#57bee0;
+	height:300px;
+	width:300px;
+}
+
+
+
+/*<------------------------------About Us Webpage---------------------------->*/
+
+#aboutus_main	{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:600px;
+	width:1300px;
+}
+
+#aboutus_main h1	{
+	font-family:calibri;
+	color:black;
+
+}
+#aboutus_main img	{
+	margin:10px;
+	float:left;
+
+}
+
+#aboutus_box{
+	margin-left:250px;
+	margin-top:20px;
+	height:600px;
+	width:1000px;
+}
+#aboutus_box p	{
+	padding: 10px 10px;
+	font-family:calibri;
+	color:black;
+}
+
+/*<-------------------------------Products Webpage----------------------------->*/
+
+#Products_Search	a{
+	margin-top:50px;
+	font-family:calibri;
+	text-decoration:none;
+	color:black;
+}
+#Products_Search	a:hover{
+	color:blue;
+}
+
+#Products_Search	li{
+	display: inline;
+}
+
+#Products_Main	img{
+	margin-left:70px;
+	border: 1px solid #D3D3D3;
+	text-align:center;
+	margin-right:70px;
+
+}
+#Products_box	{
+	height:2300px;
+	width:1300px;
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+}
+#Products_Main 	h2{
+	margin-top:100px;
+	color:#0a075b;
+	text-align:center;
+	font-family:calibri;
+}
+
+#Products_Main	a{
+	margin-top:30px;
+	font-family:calibri;
+	color:red;	
+}
+#Products_Main	h1{
+	font-family:calibri;
+	color:black;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+
+#Products_Main	h5{
+	margin-right:100px;
+	padding-left:75px;
+	display: inline;
+	font-family:calibri;
+	color:black;
+}
+#Products_Main	p{
+	font-family:calibri;
+	color:black;
+
+}
+
+
+/*<-------------------------------FAQs Webpage----------------------------->*/
+
+#article	{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:1150px;
+	width:1300px;
+	
+}
+#article h1{
+	font-family:calibri;
+	text-align:center;
+	margin-bottom:50px;
+}
+
+#article h2{	
+	color:#0a075b;
+	font-family:calibri;
+	text-align:center;
+}
+#article p{
+	padding-left:10px;
+	padding-right:10px;
+	font-family:calibri;
+}
+#article ol{
+	font-family:calibri;
+	text-align:left;
+}
+
+/*<----------------------------Gallery----------------------------------->*/
+#Gallery_Main h1{
+	margin-bottom:100px;
+	font-family:calibri;
+}
+#Gallery_Main	{
+	background-color:white;
+	margin-top:-10px;
+	margin-bottom:-330px;
+	height:1850px;
+	width:1300px;
+}
+#Gallery_Main img{
+	margin-left:20px;
+	margin-bottom:50px;
+}
+#Gallery_Main a{
+	font-family:calibri;
+	color:red;
+}
+
+#Gallery_Main p{
+	padding-left:60px;
+	padding-right:60px;
+	font-family:calibri;
+	text-decoration:none;
+	color:black;
+}
+#Gallery_Main ul{
+	margin-left:150px;
+	margin-right:100px;
+	font-family:calibri;
+	text-decoration:none;
+	color:black;
+}
+#Gallery_Main li{
+	display: inline;
+}
+
+/*<----------------------------Useful Links----------------------------------->*/	
+
+#UL_main	{
+	background-color:white;
+	height:1510px;
+	width:1300px;
+	margin-top:-10px;
+	margin-bottom:-330px;
+}
+#UL_main	img{
+	margin-left:70px;
+	margin-right:100px;
+	margin-bottom:30px;
+	padding-top:50px;
+}
+#UL_main	h1{
+	margin-bottom:30px;
+	font-family:calibri;
+}
+#UL_main	h2{
+	font-size:30px;
+	color:#0a075b;
+	font-family:calibri;
+}
+#UL_main	a{
+	font-family:calibri;
+	color:red;	
+}
+/*<----------------------------Contact Us----------------------------------->*/	
+
+#GetHere_Main img{
+	margin-left:-970px;
+	margin-top:10px;
+	margin-bottom:700px;
+}
+#box{
+	margin-top:-1060px;
+	margin-left:400px;
+	background-color:white;
+	height:740px;
+	width:900px;
+	border: 1px solid black;
+}
+#box	h3{
+	margin-left:20px;
+	text-align:left;
+
+}
+#box	h1,h2,h3{
+	font-family:calibri;
+
+}
+#GetHere_Main a{
+	text-align:left;
+	font-family:calibri;
+}
+#GetHere_Main li{
+	text-align:left;
+	font-family:calibri;
+}
+#GetHere_Main p{
+	margin-left:20px;
+	text-align:left;
+	font-family:calibri;
+}
+/*<----------------------------Get Involved----------------------------------->*/
+#GetInvolved_Main{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:850px;
+	width:1300px;
+}
+#GetInvolved_Main	img{
+	margin-bottom:60px;
+}
+#GetInvolved_Main h1{
+	margin-bottom:60px;
+	font-family:calibri;
+}
+#box1	{
+	border: 1px solid black;
+	height:400px;
+	width:1250px;
+	margin-left:25px;
+	border-radius: 25px;
+	background-color:#57bee0;
+}
+#box1	h3{
+	color:#0a075b;
+	font-family:calibri;
+}
+#box1	p{
+	font-family:calibri;
+}
+/*<----------------------------Site Map-----------------------------------
+>*/
+#sitemap_main{
+	margin-bottom:-330px;
+	margin-top:-10px;
+	background-color:white;
+	height:600px;
+	width:1300px;
+}
+#sitemap_main ul{
+	text-align:left;
+	font-family:calibri;
+	color:black;
+}
+#sitemap_main li{
+	list-style-type: circle;
+
+}
+#sitemap_main h1{
+	margin-bottom:80px;
+	font-family:calibri;
+	color:black;
+}
+#sitemap_main a:link{
+	color:blue;
+}
+#sitemap_main a:visited{
+	color:red;
+}
+#sitemap_main a:hover{
+	color:#1E90FF;
+}
+#sitemap_list {
+	margin-top:-50px;
+	height:350px;
+	width:350px;
+	padding-left:120px;
+	margin-left:450px;
+	border:0.1em solid #0a075b;
+}
+
+
+
+/*<----------------------------Keep Cups-----------------------------------
+>*/
+#KeepCups_main{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:570px;
+	width:1300px;
+}
+#KeepCups_main img{
+	margin-left:650px;
+}
+#KeepCups_box{
+	margin-left:50px;
+	margin-top:-350px;
+	height:300px;
+	width:600px;
+}
+#KeepCups_box	p{
+	font-family:calibri;
+}
+#KeepCups_box	h5{
+	font-family:calibri;
+}
+
+/*<----------------------------Reusable Straws--------------------
+>*/
+
+#straws_main{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:570px;
+	width:1300px;
+}
+#straws_main img{
+	margin-left:650px;
+}
+#straws_box{
+	margin-left:50px;
+	margin-top:-350px;
+	height:300px;
+	width:600px;
+}
+#straws_box	p{
+	font-family:calibri;
+}
+#straws_box	h5{
+	font-family:calibri;
+}
+
+/*<----------------------------Reusable Water Bottles--------------------
+>*/
+
+#waterbottle_main{
+	margin-top:-10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:570px;
+	width:1300px;
+}
+#waterbottle_main img{
+	margin-left:650px;
+}
+#waterbottle_box{
+	margin-left:50px;
+	margin-top:-270px;
+	height:300px;
+	width:600px;
+}
+#waterbottle_box	p{
+	font-family:calibri;
+}
+#waterbottle_box	h5{
+	font-family:calibri;
+}
+
+
+/*<----------------------------Forms--------------------
+>*/
+#forms_main{
+	margin-top:10px;
+	margin-bottom:-330px;
+	background-color:white;
+	height:780px;
+	width:1300px;
+}
+
+#forms_main h1, legend, form, fieldset{
+	font-family:calibri
+}
+#forms_main li{
+	text-align:left;
+	font-family:calibri;
+	color:black;
+}
+#forms_main li{
+	list-style-type: none;
+}
+legend	{
+	border:0;
+	padding:0.2em 0.5em;
+	color:#0a075b;
+}
+
+fieldset{
+	border:0.1em solid #0a075b;
+}
+
+
+
